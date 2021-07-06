@@ -9,19 +9,19 @@
       </button>
       <ul>
         <li>
-          <a target="_blank" href="mailto:shahid.sk27595@gmail.com">Questions?</a>
+          <a target="_blank" href="mailto:rsiyq924@gmail.com">Questions?</a>
         </li>
         <li>
-          <a target="_blank" href="https://github.com/shahidshaikhs">More Projects</a>
+          <a target="_blank" href="https://github.com/fu4303">More Projects</a>
         </li>
       </ul>
     </nav>
     <ul class="responsive-nav" :class="navbarVisible ? 'responsive-nav-active' : ''">
       <li>
-        <a target="_blank" href="mailto:shahid.sk27595@gmail.com">Questions?</a>
+        <a target="_blank" href="mailto:rsiyq924@gmail.com">Questions?</a>
       </li>
       <li>
-        <a target="_blank" href="https://github.com/shahidshaikhs">More Projects</a>
+        <a target="_blank" href="https://github.com/fu4303">More Projects</a>
       </li>
     </ul>
     <header class="container-2">
