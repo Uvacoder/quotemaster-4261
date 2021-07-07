@@ -27,7 +27,7 @@
     <header class="container-2">
       <p>
         Quotify is a small website made by
-        <a class="link" href="https://www.shahidshaikh.com/">Shahid</a> for you to find quotes from well known individuals around the world.
+        <a class="link" href="https://github/fu4303/">Alec</a> for you to find quotes from well known individuals around the world.
       </p>
       <p class="instructions">Just click on the quote and it will be copied to your clipboard.</p>
     </header>
