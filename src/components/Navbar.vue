@@ -38,7 +38,7 @@
 export default {
   data() {
     return {
-      navbarVisible: false
+      navbarVisible: true
     };
   },
   methods: {
