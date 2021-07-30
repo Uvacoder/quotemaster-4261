@@ -9,6 +9,9 @@
       </button>
       <ul>
         <li>
+          <a target="_blank" href="https://awesome-stoicism.netlify.app">Awesome Stoicism Quotes</a>
+        </li>
+        <li>
           <a target="_blank" href="mailto:rsiyq924@gmail.com">Questions?</a>
         </li>
         <li>
@@ -17,6 +20,9 @@
       </ul>
     </nav>
     <ul class="responsive-nav" :class="navbarVisible ? 'responsive-nav-active' : ''">
+      <li>
+          <a target="_blank" href="https://awesome-stoicism.netlify.app">Awesome Stoicism Quotes</a>
+        </li>
       <li>
         <a target="_blank" href="mailto:rsiyq924@gmail.com">Questions?</a>
       </li>
