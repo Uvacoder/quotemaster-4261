@@ -2,7 +2,7 @@
   <div>
     <transition name="bounce">
       <div class="alert" v-if="alertVisible">
-        <p>Yay! Quote copied to clipboard!</p>
+        <p>Quote has been copied to clipboard!</p>
       </div>
     </transition>
     <div class="container-3">
