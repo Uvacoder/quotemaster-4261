@@ -12,7 +12,7 @@
           <a target="_blank" href="https://awesome-stoicism.netlify.app">Awesome Stoicism Quotes</a>
         </li>
         <li>
-          <a target="_blank" href="mailto:rsiyq924@gmail.com">Questions?</a>
+          <a target="_blank" href="mailto:freeunioncoder@gmail.com">Questions?</a>
         </li>
         <li>
           <a target="_blank" href="https://github.com/uvacoder">More Projects</a>
@@ -24,7 +24,7 @@
           <a target="_blank" href="https://awesome-stoicism.netlify.app">Awesome Stoicism Quotes</a>
         </li>
       <li>
-        <a target="_blank" href="mailto:rsiyq924@gmail.com">Questions?</a>
+        <a target="_blank" href="mailto:freeunioncoder@gmail.com">Questions?</a>
       </li>
       <li>
         <a target="_blank" href="https://github.com/uvacoder">More Projects</a>
@@ -32,7 +32,7 @@
     </ul>
     <header class="container-2">
       <p>
-        Quotify is a small website made by
+        QuoteMaster is a small website made by
         <a class="link" href="https://github/uvacoder/">Alec</a> for you to find quotes from well known individuals around the world.
       </p>
       <p class="instructions">Just click on the quote and it will be copied to your clipboard.</p>
