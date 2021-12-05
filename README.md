@@ -1,5 +1,5 @@
-# Quotify
-Quotify is a small website made for you to find quotes from well known individuals around the world.
+# QuoteMaster
+QuoteMaster is a small website made for you to find quotes from well known individuals around the world.
 
 It is based on VueJS.
 
